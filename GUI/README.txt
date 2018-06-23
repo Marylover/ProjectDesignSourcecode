@@ -1,0 +1,1 @@
+请在D盘创建AllergyInfor.txt,Goodnumber.txt,OutPut.txt等文件
